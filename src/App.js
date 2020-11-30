@@ -56,7 +56,6 @@ const App = () => {
       <div className="header">
           <p className="logoEscrita">BUSCAR CEP</p>
           <p className="inicio">Você está em início</p>
-          <p className="dev">Site em desenvolvimento</p>
         </div>
         <div className="informacoesCep">
             <div className="boxInput">
